@@ -6,6 +6,7 @@
 - 💻 Currently focusing on studying and mastering **C#**.
 - ☁️ Enrolled in a Networks and Cloud Computing course at the **Electronics Research Institute (ERI) - Huawei**.
 - 💡 I love applying what I learn by building practical projects.
+- ⚡ Focused on programming fundamentals.
 
 ### 🛠️ Tech Stack & Tools
 **Languages:**  
