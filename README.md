@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaCS2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  
 </div>
 <!--
 **menna2006fawzy-max/menna2006fawzy-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
