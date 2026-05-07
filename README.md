@@ -33,9 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaCS2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
-<div align="center">
-  
-</div>
+
 <!--
 **menna2006fawzy-max/menna2006fawzy-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
