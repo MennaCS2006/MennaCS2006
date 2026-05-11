@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-100+-red?style=for-the-badge" alt="Views"/>
-  <img src="https://img.shields.io/badge/FOLLOWERS-250+-red?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-50+-red?style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/badge/FOLLOWERS-30+-red?style=for-the-badge" alt="Followers"/>
   <img src="https://img.shields.io/badge/EXPERIENCE-Student-red?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/STATUS-Available-success?style=for-the-badge" alt="Status"/>
 </div>
@@ -44,13 +44,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaCS2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaCS2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MennaCS2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Menna's GitHub Stats" width="80%" />
+  
 </div>
 
 <!--
