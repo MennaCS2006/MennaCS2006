@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Menna!+%F0%9F%91%8B;Passionate+about+C%23;Building+Clean+%26+Solid+Code" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-100+-red?style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/badge/FOLLOWERS-250+-red?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/badge/EXPERIENCE-Student-red?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/STATUS-Available-success?style=for-the-badge" alt="Status"/>
+</div>
+
 ---
 
 ### 👩‍💻 About Me
@@ -28,11 +35,23 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+
 <div align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaCS2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MennaCS2006&bg_color=ffcce6&color=800080&line=800080&point=333333&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 <br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaCS2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaCS2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MennaCS2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Menna's GitHub Stats" width="80%" />
+</div>
 
 <!--
 **menna2006fawzy-max/menna2006fawzy-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
