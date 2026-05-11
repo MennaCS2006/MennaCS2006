@@ -29,11 +29,6 @@
 
 ---
 
-### 📂 Featured Projects
-* 🛒 **Supermarket System:** A practical back-end application to handle inventory and operations.
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
