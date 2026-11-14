@@ -12,7 +12,7 @@
 ---
 
 ### 👩‍💻 About Me
-* 🎓 First-year Computer Science & Artificial Intelligence student.
+* 🎓 Second-year Computer Science & Artificial Intelligence student.
 * 💡 Building a strong foundation in problem-solving, algorithms, and clean code.
 * 💻 Currently focusing on studying and mastering **C#**.
 * ☁️ Enrolled in a Networks and Cloud Computing course at ERI - Huawei.
